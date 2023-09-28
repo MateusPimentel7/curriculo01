@@ -1,0 +1,18 @@
+.texto-negrito{
+    font-weight: bold;
+}
+
+body{
+    text-decoration: wavy;
+    background-color:rgb(247, 223, 6);
+    text-transform: capitalize;
+}
+h1{
+    text-decoration-style: italic;
+}
+img{
+    box-shadow:10px 10px 10px #000000;
+    border-style: outset;
+    border-radius: 50px;
+    width: 7%;
+}
